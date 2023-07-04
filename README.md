@@ -1,7 +1,19 @@
 # SpringBootCrud
 Crud Operation using Spring Boot and React
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/5abfb751-4f4e-4f01-80d1-38bf89a0b05e)
+</br></br>
+<h3>Prerequisite</h3>
+<ul>
+  <li>Java jdk17 </li>
+  <li>Spring Boot</li>
+  <li>MySQL database</li>
+  <li>Node JS</li>
+  <li>NPM</li>
+  <li>React</li>
+</ul>
+
 </br>
-<b>Front Pagr </b>
+<b>Front Page </b>
 ![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/a5633504-161b-43f3-8234-6ac84d0c714f)
 </br>
 <b>Add User</b>
