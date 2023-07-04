@@ -1,6 +1,7 @@
 # SpringBootCrud
 Crud Operation using Spring Boot and React
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/5abfb751-4f4e-4f01-80d1-38bf89a0b05e)
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/ae096703-4997-47ac-bc87-b45694ee9a7c)
+
 </br></br>
 <h3>Prerequisite</h3>
 <ul>
