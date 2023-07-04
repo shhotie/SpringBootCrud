@@ -1,7 +1,7 @@
 # SpringBootCrud
 Crud Operation using Spring Boot and React
+</br></br>
 ![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/ae096703-4997-47ac-bc87-b45694ee9a7c)
-
 </br></br>
 <h3>Prerequisite</h3>
 <ul>
@@ -15,15 +15,19 @@ Crud Operation using Spring Boot and React
 
 </br>
 <b>Front Page </b>
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/a5633504-161b-43f3-8234-6ac84d0c714f)
+</br>
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/77f8c338-a837-4bcc-bce2-93cf45732c6e)
 </br>
 <b>Add User</b>
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/0612c393-2e91-4a86-ad0f-91b5ed382ee0)
+</br>
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/f43c3c79-c8a1-4bca-8398-25ce097126f9)
 </br>
 <b>View Page</b>
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/77caaa6d-e5d4-4d66-b239-cd4b107be275)
+</br>
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/202fe657-a041-405a-a313-596eeb3ac89a)
 </br>
 <b>Edit Page</b>
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/f0152720-0185-49a7-a3f9-ac78d53f8f02)
+</br>
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/ed5c0a8a-9f06-4122-ac76-6606d7b40d34)
 
 
