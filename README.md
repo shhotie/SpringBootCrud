@@ -14,12 +14,9 @@ Crud Operation using Spring Boot and React
 </ul>
 
 
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/8b2d167f-44f9-4be5-9322-5159430aab34)
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/eacb1786-1fc2-4b25-abcf-a80db43c397b)
 
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/7b1ab902-4696-4e6f-880a-ee19957eb9cd)
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/f098e131-44fb-4310-b319-a5fb9fd4e049)
 
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/78146688-2e99-413c-9020-14a8d364333a)
-
-![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/8fb7b44a-a3b9-47da-885c-bd8c5484d8da)
-
+![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/3b3b9511-3f15-4a15-bc71-09e7f067d357)
 
