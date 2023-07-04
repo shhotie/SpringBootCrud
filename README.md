@@ -13,21 +13,13 @@ Crud Operation using Spring Boot and React
   <li>React</li>
 </ul>
 
-</br>
-<b>Front Page </b>
-</br>
+
 ![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/8b2d167f-44f9-4be5-9322-5159430aab34)
-</br>
-<b>Add User</b>
-</br>
+
 ![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/7b1ab902-4696-4e6f-880a-ee19957eb9cd)
-</br>
-<b>View Page</b>
-</br>
+
 ![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/78146688-2e99-413c-9020-14a8d364333a)
-</br>
-<b>Edit Page</b>
-</br>
+
 ![image](https://github.com/shhotie/SpringBootCrud/assets/113897763/8fb7b44a-a3b9-47da-885c-bd8c5484d8da)
 
 
